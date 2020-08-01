@@ -1,0 +1,2 @@
+# ML-Solution.-accelerator-for-CFD
+This code is an attempt to physics informed neural networks – neural networks that are trained to solve supervised learning tasks while respecting any given law of physics described by general nonlinear partial differential equations.   The resulting neural networks form a new class of data-efficient universal function approximators that naturally encode any underlying physical laws as prior information. 
